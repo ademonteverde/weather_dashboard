@@ -1,4 +1,4 @@
-# weather_dashboard
+# Weather Dashboard
 
 ## Description
 
